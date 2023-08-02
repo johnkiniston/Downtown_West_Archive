@@ -19,7 +19,7 @@ jobs:
           DATEFORMAT: yyyy-MM-dd-HH-mm-ss
           DIR: archive
           LINKNAME: latest.jpg
-          URL: https://camera.simplybits.net/177n.jpg
+          URL: https://camera.simplybits.net/177w.jpg
           
         run: deno run --unstable --allow-env --allow-net --allow-read --allow-write main.ts
 
